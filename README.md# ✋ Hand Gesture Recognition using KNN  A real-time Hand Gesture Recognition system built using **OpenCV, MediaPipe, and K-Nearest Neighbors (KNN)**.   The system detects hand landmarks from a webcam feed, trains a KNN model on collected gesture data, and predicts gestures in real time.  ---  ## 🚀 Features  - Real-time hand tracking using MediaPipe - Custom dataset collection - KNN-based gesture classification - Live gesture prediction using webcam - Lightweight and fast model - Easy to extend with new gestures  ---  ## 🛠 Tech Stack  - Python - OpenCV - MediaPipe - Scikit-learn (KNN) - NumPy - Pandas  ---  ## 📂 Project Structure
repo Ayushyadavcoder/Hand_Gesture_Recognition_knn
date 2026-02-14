@@ -1,0 +1,31 @@
+# Hand Gesture Recognition using KNN
+
+A real-time Hand Gesture Recognition system built using **OpenCV, MediaPipe, and K-Nearest Neighbors (KNN)**.  
+The system detects hand landmarks from a webcam feed, trains a KNN model on collected gesture data, and predicts gestures in real time.
+
+---
+
+## Features
+
+- Real-time hand tracking using MediaPipe
+- Custom dataset collection
+- KNN-based gesture classification
+- Live gesture prediction using webcam
+- Lightweight and fast model
+- Easy to extend with new gestures
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- OpenCV
+- MediaPipe
+- Scikit-learn (KNN)
+- NumPy
+- Pandas
+
+---
+
+## Project Structure
+
